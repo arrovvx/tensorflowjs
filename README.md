@@ -1,6 +1,6 @@
 # A simple Tensorflow.js image classifier
 This is a simple webcam image classification app that allows custom classifiers to classify webcam images in real time.
-##Getting started
+## Getting started
 * Clone this repo
 * Have the latest version of Chrome
 * open index.html in your Chrome browser
