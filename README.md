@@ -6,7 +6,7 @@ This is a simple webcam image classification app that allows custom classifiers 
 * open index.html in your Chrome browser
 * Done! 
 
-Screenshot image
+##Screenshot image
 ![alt text](https://github.com/arrovvx/tensorflowjs/blob/master/exampleimg.png)
 
 ##How to use
